@@ -1,2 +1,2 @@
-# KotlinJWTAPI
-Auth API with JWT in Kotlin
+# KotlinAuthJWT
+A Kotlin API with spring and JWT authentication
